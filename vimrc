@@ -66,8 +66,6 @@ nnoremap <Leader>bf :ls<CR>:b
 nnoremap <Leader>bn :bn<CR>
 nnoremap <Leader>bp :bp<CR>
 
-"buffers - FZF
-
 "file search
 nnoremap <Leader>f :find 
 
@@ -76,5 +74,3 @@ set path=**
 set tags=./tags,tags;
 
 runtime! config/*.vimrc
-
-set rtp+=/usr/local/Cellar/fzf/0.10.2

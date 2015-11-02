@@ -1,0 +1,16 @@
+git clone --depth 1 https://github.com/vim-scripts/CompleteHelper.git
+git clone --depth 1 https://github.com/vim-scripts/Gundo.git
+git clone --depth 1 https://github.com/vim-scripts/SnippetComplete.git
+git clone --depth 1 https://github.com/vim-scripts/SnippetCompleteSnipMate.git
+git clone --depth 1 https://github.com/unblevable/quick-scope.git
+git clone --depth 1 https://github.com/scrooloose/syntastic.git
+git clone --depth 1 https://github.com/SirVer/ultisnips.git
+git clone --depth 1 https://github.com/bling/vim-airline.git
+git clone --depth 1 https://github.com/altercation/vim-colors-solarized.git
+git clone --depth 1 https://github.com/idbrii/vim-hiinterestingword.git
+git clone --depth 1 https://github.com/tpope/vim-repeat.git
+git clone --depth 1 https://github.com/tpope/vim-rsi.git
+git clone --depth 1 https://github.com/kshenoy/vim-signature.git
+git clone --depth 1 https://github.com/honza/vim-snippets.git
+git clone --depth 1 https://github.com/tpope/vim-surround.git
+git clone --depth 1 https://github.com/tpope/vim-vinegar.git
